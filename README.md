@@ -28,7 +28,7 @@ The project demonstrates the practical application of sorting, dynamic programmi
 ## 4. Project Structure
 
 ```text
-daa capstone project/
+mini-courier-planner/
 │
 ├── algorithms/
 │   ├── sorting.py
