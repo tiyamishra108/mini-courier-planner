@@ -1,0 +1,58 @@
+[
+    {
+        "parcel_id": "P101",
+        "destination": "A",
+        "weight": 5,
+        "value": 100,
+        "priority": 1,
+        "deadline": "10:00"
+    },
+    {
+        "parcel_id": "P102",
+        "destination": "B",
+        "weight": 8,
+        "value": 150,
+        "priority": 2,
+        "deadline": "11:00"
+    },
+    {
+        "parcel_id": "P103",
+        "destination": "C",
+        "weight": 4,
+        "value": 120,
+        "priority": 1,
+        "deadline": "09:30"
+    },
+    {
+        "parcel_id": "P104",
+        "destination": "D",
+        "weight": 10,
+        "value": 200,
+        "priority": 3,
+        "deadline": "13:00"
+    },
+    {
+        "parcel_id": "P105",
+        "destination": "E",
+        "weight": 6,
+        "value": 180,
+        "priority": 2,
+        "deadline": "12:00"
+    },
+    {
+        "parcel_id": "P106",
+        "destination": "A",
+        "weight": 3,
+        "value": 90,
+        "priority": 1,
+        "deadline": "10:30"
+    },
+    {
+        "parcel_id": "P107",
+        "destination": "C",
+        "weight": 7,
+        "value": 160,
+        "priority": 2,
+        "deadline": "14:00"
+    }
+]

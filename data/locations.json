@@ -1,0 +1,24 @@
+{
+    "warehouse": "W",
+    "box_capacity": 20,
+    "locations": [
+        "W",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+    ],
+    "roads": [
+        {"from": "W", "to": "A", "distance": 4},
+        {"from": "W", "to": "B", "distance": 6},
+        {"from": "W", "to": "C", "distance": 8},
+        {"from": "A", "to": "B", "distance": 2},
+        {"from": "A", "to": "D", "distance": 7},
+        {"from": "B", "to": "C", "distance": 3},
+        {"from": "B", "to": "D", "distance": 5},
+        {"from": "C", "to": "D", "distance": 4},
+        {"from": "C", "to": "E", "distance": 6},
+        {"from": "D", "to": "E", "distance": 2}
+    ]
+}
